@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+input/*
+
+.idea
+
+.DS_Store
+
+notebooks/metastore_db
+notebooks/warehouse
